@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Kcx7s8oIId9Svp4jzno7/nMSDEXD5O2/DlYVFg8jKHw=",
+  "Source": "CloudPos_WebStore.Api",
+  "BasePath": "_content/CloudPos_WebStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

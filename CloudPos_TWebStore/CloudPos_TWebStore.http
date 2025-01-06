@@ -1,0 +1,6 @@
+@CloudPos_TWebStore_HostAddress = http://localhost:5021
+
+GET {{CloudPos_TWebStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

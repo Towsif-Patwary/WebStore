@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C778AEA1-C14D-4967-8812-41DDF3C4502E}|CloudPos_TWebStore\\CloudPos_WebStore.Api.csproj|e:\\projects\\git\\mongo\\cloudpos_webstore\\cloudpos_twebstore\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C778AEA1-C14D-4967-8812-41DDF3C4502E}|CloudPos_TWebStore\\CloudPos_WebStore.Api.csproj|solutionrelative:cloudpos_twebstore\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FC881F-3F0E-4145-8A86-1D92B803EF56}|CloudPos_TWebStore.Application\\CloudPos_WebStore.Application.csproj|e:\\projects\\git\\mongo\\cloudpos_webstore\\cloudpos_twebstore.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FC881F-3F0E-4145-8A86-1D92B803EF56}|CloudPos_TWebStore.Application\\CloudPos_WebStore.Application.csproj|solutionrelative:cloudpos_twebstore.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FC881F-3F0E-4145-8A86-1D92B803EF56}|CloudPos_TWebStore.Application\\CloudPos_WebStore.Application.csproj|e:\\projects\\git\\mongo\\cloudpos_webstore\\cloudpos_twebstore.application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FC881F-3F0E-4145-8A86-1D92B803EF56}|CloudPos_TWebStore.Application\\CloudPos_WebStore.Application.csproj|solutionrelative:cloudpos_twebstore.application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195512FF-71FF-4756-BB78-2DBC93D2EFA8}|CloudPos_TWebStore.Infrastructure\\CloudPos_WebStore.Infrastructure.csproj|e:\\projects\\git\\mongo\\cloudpos_webstore\\cloudpos_twebstore.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195512FF-71FF-4756-BB78-2DBC93D2EFA8}|CloudPos_TWebStore.Infrastructure\\CloudPos_WebStore.Infrastructure.csproj|solutionrelative:cloudpos_twebstore.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C778AEA1-C14D-4967-8812-41DDF3C4502E}|CloudPos_TWebStore\\CloudPos_WebStore.Api.csproj|e:\\projects\\git\\mongo\\cloudpos_webstore\\cloudpos_twebstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C778AEA1-C14D-4967-8812-41DDF3C4502E}|CloudPos_TWebStore\\CloudPos_WebStore.Api.csproj|solutionrelative:cloudpos_twebstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F08427-213E-487D-83A7-54DBAE61A015}|CloudPos_TWebStore.Domain\\CloudPos_WebStore.Domain.csproj|e:\\projects\\git\\mongo\\cloudpos_webstore\\cloudpos_twebstore.domain\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F08427-213E-487D-83A7-54DBAE61A015}|CloudPos_TWebStore.Domain\\CloudPos_WebStore.Domain.csproj|solutionrelative:cloudpos_twebstore.domain\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\CloudPos_TWebStore\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CloudPos_TWebStore\\Controllers\\CustomersController.cs",
+              "ToolTip": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\CloudPos_TWebStore\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CloudPos_TWebStore\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwGkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:46:26.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\CloudPos_TWebStore.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CloudPos_TWebStore.Application\\Services\\CustomerService.cs",
+              "ToolTip": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\CloudPos_TWebStore.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CloudPos_TWebStore.Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwE0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:06:05.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\CloudPos_TWebStore.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CloudPos_TWebStore.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\CloudPos_TWebStore.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CloudPos_TWebStore.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:50:40.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\CloudPos_TWebStore.Domain\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CloudPos_TWebStore.Domain\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\CloudPos_TWebStore.Domain\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "CloudPos_TWebStore.Domain\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:50:35.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\CloudPos_TWebStore.Application\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CloudPos_TWebStore.Application\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\CloudPos_TWebStore.Application\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "CloudPos_TWebStore.Application\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:50:27.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\CloudPos_TWebStore\\Program.cs",
+              "RelativeDocumentMoniker": "CloudPos_TWebStore\\Program.cs",
+              "ToolTip": "E:\\Projects\\Git\\Mongo\\CloudPos_WebStore\\CloudPos_TWebStore\\Program.cs",
+              "RelativeToolTip": "CloudPos_TWebStore\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:41:34.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

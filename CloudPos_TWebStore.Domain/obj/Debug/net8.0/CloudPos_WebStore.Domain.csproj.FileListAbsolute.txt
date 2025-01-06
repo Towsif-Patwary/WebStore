@@ -1,0 +1,13 @@
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\bin\Debug\net8.0\CloudPos_WebStore.Domain.deps.json
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\bin\Debug\net8.0\CloudPos_WebStore.Domain.dll
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\bin\Debug\net8.0\CloudPos_WebStore.Domain.pdb
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\obj\Debug\net8.0\CloudPos_WebStore.Domain.csproj.AssemblyReference.cache
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\obj\Debug\net8.0\CloudPos_WebStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\obj\Debug\net8.0\CloudPos_WebStore.Domain.AssemblyInfoInputs.cache
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\obj\Debug\net8.0\CloudPos_WebStore.Domain.AssemblyInfo.cs
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\obj\Debug\net8.0\CloudPos_WebStore.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\obj\Debug\net8.0\CloudPos_WebStore.Domain.sourcelink.json
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\obj\Debug\net8.0\CloudPos_WebStore.Domain.dll
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\obj\Debug\net8.0\refint\CloudPos_WebStore.Domain.dll
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\obj\Debug\net8.0\CloudPos_WebStore.Domain.pdb
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Domain\obj\Debug\net8.0\ref\CloudPos_WebStore.Domain.dll

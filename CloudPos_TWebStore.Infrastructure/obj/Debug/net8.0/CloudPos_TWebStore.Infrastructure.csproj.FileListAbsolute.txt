@@ -1,0 +1,15 @@
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_TWebStore.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_TWebStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_TWebStore.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_TWebStore.Infrastructure.AssemblyInfo.cs
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_TWebStore.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\bin\Debug\net8.0\CloudPos_TWebStore.Infrastructure.deps.json
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\bin\Debug\net8.0\CloudPos_TWebStore.Infrastructure.dll
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\bin\Debug\net8.0\CloudPos_TWebStore.Infrastructure.pdb
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_TWebStore.Infrastructure.dll
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\refint\CloudPos_TWebStore.Infrastructure.dll
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_TWebStore.Infrastructure.pdb
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\ref\CloudPos_TWebStore.Infrastructure.dll
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\bin\Debug\net8.0\CloudPos_TWebStore.Domain.dll
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\bin\Debug\net8.0\CloudPos_TWebStore.Domain.pdb
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos.A5BEA354.Up2Date

@@ -1,0 +1,205 @@
+[
+  {
+    "ContainingType": "CloudPos_TWebStore.Controllers.CustomersController",
+    "Method": "BulkInsertCustomers",
+    "RelativePath": "api/Customers/bulk-insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customers",
+        "Type": "System.Collections.Generic.List\u00601[[CloudPos_TWebStore.Domain.DataModels.CustomerInsert, CloudPos_WebStore.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CloudPos_TWebStore.Controllers.CustomersController",
+    "Method": "DownloadZipExport",
+    "RelativePath": "api/Customers/download-zip/{jobId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CloudPos_TWebStore.Controllers.CustomersController",
+    "Method": "DownloadExport",
+    "RelativePath": "api/Customers/download/{jobId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CloudPos_TWebStore.Controllers.CustomersController",
+    "Method": "Get",
+    "RelativePath": "api/Customers/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[CloudPos_WebStore.Application.DTOs.CustomerDto, CloudPos_WebStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CloudPos_TWebStore.Controllers.CustomersController",
+    "Method": "GetExportStatus",
+    "RelativePath": "api/Customers/get-all-export-status/{jobId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CloudPos_TWebStore.Controllers.CustomersController",
+    "Method": "ExportCustomers",
+    "RelativePath": "api/Customers/get-all-export-to-file",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CloudPos_TWebStore.Controllers.CustomersController",
+    "Method": "GetAllCustomers",
+    "RelativePath": "api/Customers/get-all-paged",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[CloudPos_WebStore.Application.DTOs.CustomerDto, CloudPos_WebStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CloudPos_TWebStore.Controllers.CustomersController",
+    "Method": "GetAllCustomersStream",
+    "RelativePath": "api/Customers/get-all-stream",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IAsyncEnumerable\u00601[[CloudPos_WebStore.Application.DTOs.CustomerDto, CloudPos_WebStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CloudPos_TWebStore.Controllers.CustomersController",
+    "Method": "Get",
+    "RelativePath": "api/Customers/get-by-id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CloudPos_WebStore.Application.DTOs.CustomerDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CloudPos_TWebStore.Controllers.CustomersController",
+    "Method": "SingleInsertCustomer",
+    "RelativePath": "api/Customers/single-insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer",
+        "Type": "CloudPos_TWebStore.Domain.DataModels.CustomerInsert",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CloudPos_TWebStore.Controllers.CustomersController",
+    "Method": "TestBulkInsertCustomers",
+    "RelativePath": "api/Customers/test-bulk-insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer",
+        "Type": "CloudPos_TWebStore.Domain.DataModels.CustomerInsert",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

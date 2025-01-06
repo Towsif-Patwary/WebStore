@@ -1,0 +1,17 @@
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\bin\Debug\net8.0\CloudPos_TWebStore.Application.deps.json
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\bin\Debug\net8.0\CloudPos_TWebStore.Application.dll
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\bin\Debug\net8.0\CloudPos_TWebStore.Application.pdb
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\obj\Debug\net8.0\CloudPos_TWebStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\obj\Debug\net8.0\CloudPos_TWebStore.Application.AssemblyInfoInputs.cache
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\obj\Debug\net8.0\CloudPos_TWebStore.Application.AssemblyInfo.cs
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\obj\Debug\net8.0\CloudPos_TWebStore.Application.csproj.CoreCompileInputs.cache
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\obj\Debug\net8.0\CloudPos_TWebStore.Application.dll
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\obj\Debug\net8.0\refint\CloudPos_TWebStore.Application.dll
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\obj\Debug\net8.0\CloudPos_TWebStore.Application.pdb
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\obj\Debug\net8.0\ref\CloudPos_TWebStore.Application.dll
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\bin\Debug\net8.0\CloudPos_TWebStore.Domain.dll
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\bin\Debug\net8.0\CloudPos_TWebStore.Infrastructure.dll
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\bin\Debug\net8.0\CloudPos_TWebStore.Domain.pdb
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\bin\Debug\net8.0\CloudPos_TWebStore.Infrastructure.pdb
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\obj\Debug\net8.0\CloudPos_TWebStore.Application.csproj.AssemblyReference.cache
+E:\Projects\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Application\obj\Debug\net8.0\CloudPos.FA3EBCB6.Up2Date

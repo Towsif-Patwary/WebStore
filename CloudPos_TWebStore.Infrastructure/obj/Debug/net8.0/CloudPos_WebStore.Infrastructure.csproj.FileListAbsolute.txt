@@ -1,0 +1,16 @@
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_WebStore.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_WebStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_WebStore.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_WebStore.Infrastructure.AssemblyInfo.cs
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_WebStore.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_WebStore.Infrastructure.sourcelink.json
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\bin\Debug\net8.0\CloudPos_WebStore.Infrastructure.deps.json
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\bin\Debug\net8.0\CloudPos_WebStore.Infrastructure.dll
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\bin\Debug\net8.0\CloudPos_WebStore.Infrastructure.pdb
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\bin\Debug\net8.0\CloudPos_WebStore.Domain.dll
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\bin\Debug\net8.0\CloudPos_WebStore.Domain.pdb
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos.4E530322.Up2Date
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_WebStore.Infrastructure.dll
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\refint\CloudPos_WebStore.Infrastructure.dll
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\CloudPos_WebStore.Infrastructure.pdb
+E:\Projects\Git\Mongo\CloudPos_WebStore\CloudPos_TWebStore.Infrastructure\obj\Debug\net8.0\ref\CloudPos_WebStore.Infrastructure.dll
